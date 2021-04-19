@@ -2,83 +2,12 @@
     margin:0;
     box-sizing: border-box;
 }
-.sfondo{
-    background: #4ea0ff url('../img/pattern.png');
-    background-size: contain;
-}
-.sfondo img{
-    width:15%;
-    margin-top: 20px;
-}
-.contenitore{
-   width: 1100px;
-   margin:auto;
-}
-h1{
-    margin-top: 10px;
-    margin-bottom: 0px;
-}
-.tittle>div{
-    font-size: 14px;
-    color:gray;
-}
-#subtittle{
-    color:#4ea0ff ;
-}
-.immagini{
-    margin-top: 20px;
-}
-#text-space{
-    font-size: 11px;
-}
-.immagini p{
-    margin-top: 20px;
-}
-.evidenziato{
-   background-color: yellow;
-}
-.lista{
-    text-align: left;
-    margin-top: 20px;
-}
-ul{
-    padding-left:15px; 
-    margin-bottom: 20px;
-}
-.table-uno{
-    width:150px;
-    display:inline-block;
-    margin-left: 0;
-}
-.table{
-    width:250px;
-    margin-left: 100px;
-    display:inline-block;
-}
-.tabella-colore{
-    background-color: #22a9e5;
-    color: white;
-    
-}
-.tabella-colore-due{
-    background-color: #b2e5f2;
-    width:1100px;
-    height: 55px;
-}
-.tre{
-    width:450px;
-}
-.uno, .due{
-    position:relative;
-    bottom:20px;
-
-}
-.ultimo-testo{
+.logo>img{
+    width:20%;
     margin-top:20px;
 }
-.piedipagina{
-    margin-top:20px;
-    margin-bottom: 20px;
-    color:gray;
-    font-weight: bolder;
+.logo{
+    background-image:url('../img/pattern.png');
+    background-size:contain;
+    background-color: #4ea0ff;
 }
