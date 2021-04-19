@@ -1,0 +1,12 @@
+.sfondo{
+    background: #4ea0ff url('../img/pattern.png');
+    background-size: contain;
+}
+header img{
+    width:15%;
+    padding: 10px;
+}
+.margine{
+   width: 1000px;
+   margin:auto;
+}
