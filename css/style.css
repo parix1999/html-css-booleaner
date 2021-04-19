@@ -11,3 +11,33 @@
     background-size:contain;
     background-color: #4ea0ff;
 }
+.margine-sinistro{
+    margin-left:100px;
+    background-color: red;
+}
+.tittle{
+    margin-top:20px
+}
+.subtittle{
+    color:gray;
+}
+#details{
+    color:#4ea0ff;
+}
+.photo{
+    margin-left:5px;
+    margin-top: 20px;
+}
+#descrizione{
+    font-size:12px;
+}
+.text-part{
+    width: 1100px;
+    margin-top:20px;
+}
+.lista{
+    width:1100px;
+}
+.uno{
+    margin-top:20px;
+}
