@@ -15,7 +15,6 @@
    margin:auto;
 }
 h1{
-    width:80%;
     margin-top: 10px;
     margin-bottom: 0px;
 }
@@ -46,14 +45,34 @@ ul{
     padding-left:15px; 
     margin-bottom: 20px;
 }
-#table-uno{
+.table-uno{
+    width:150px;
     display:inline-block;
     margin-left: 0;
 }
 .table{
+    width:250px;
     margin-left: 100px;
     display:inline-block;
 }
 .tabella-colore{
     background-color: #22a9e5;
+    color: white;
+    
+}
+.tabella-colore-due{
+    background-color: #b2e5f2;
+    width:1100px;
+    height: 55px;
+}
+.tre{
+    width:450px;
+}
+.uno, .due{
+    position:relative;
+    bottom:20px;
+
+}
+.ultimo-testo{
+    margin-top:20px;
 }
