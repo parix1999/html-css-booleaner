@@ -12,4 +12,12 @@
 }
 h1{
     width:80%;
+    margin-bottom: 0px;
+}
+.tittle>div{
+    font-size: 14px;
+    color:gray;
+}
+#subtittle{
+    color:#4ea0ff ;
 }
