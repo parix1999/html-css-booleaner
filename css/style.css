@@ -44,4 +44,16 @@ h1{
 }
 ul{
     padding-left:15px; 
+    margin-bottom: 20px;
+}
+#table-uno{
+    display:inline-block;
+    margin-left: 0;
+}
+.table{
+    margin-left: 100px;
+    display:inline-block;
+}
+.tabella-colore{
+    background-color: #22a9e5;
 }
