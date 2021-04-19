@@ -76,3 +76,9 @@ ul{
 .ultimo-testo{
     margin-top:20px;
 }
+.piedipagina{
+    margin-top:20px;
+    margin-bottom: 20px;
+    color:gray;
+    font-weight: bolder;
+}
