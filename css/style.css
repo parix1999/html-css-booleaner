@@ -2,11 +2,14 @@
     background: #4ea0ff url('../img/pattern.png');
     background-size: contain;
 }
-header img{
+.sfondo img{
     width:15%;
-    padding: 10px;
+    margin-top: 20px;
 }
 .margine{
    width: 1000px;
    margin:auto;
+}
+h1{
+    width:80%;
 }
