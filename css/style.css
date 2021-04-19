@@ -35,3 +35,13 @@ h1{
 .immagini p{
     margin-top: 20px;
 }
+.evidenziato{
+   background-color: yellow;
+}
+.lista{
+    text-align: left;
+    margin-top: 20px;
+}
+ul{
+    padding-left:15px; 
+}
