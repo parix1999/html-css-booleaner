@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
 .sfondo{
     background: #4ea0ff url('../img/pattern.png');
     background-size: contain;
@@ -6,12 +10,13 @@
     width:15%;
     margin-top: 20px;
 }
-.margine{
-   width: 1000px;
+.contenitore{
+   width: 1100px;
    margin:auto;
 }
 h1{
     width:80%;
+    margin-top: 10px;
     margin-bottom: 0px;
 }
 .tittle>div{
@@ -20,4 +25,13 @@ h1{
 }
 #subtittle{
     color:#4ea0ff ;
+}
+.immagini{
+    margin-top: 20px;
+}
+#text-space{
+    font-size: 11px;
+}
+.immagini p{
+    margin-top: 20px;
 }
